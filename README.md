@@ -1,5 +1,5 @@
-# jigsaw-nlp
-Jigsaw Unintended Bias in Toxicity Classification. To detect toxicity across a diverse range of conversations.
+# Jigsaw Unintended Bias in Toxicity Classification
+To detect toxicity across a diverse range of conversations.
 
 ## Overview
 The Conversation AI team, a research initiative founded by Jigsaw and Google (both part of Alphabet), builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion.
